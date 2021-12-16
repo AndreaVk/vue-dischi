@@ -1,0 +1,19 @@
+/*--------------LIBS----------*/
+
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+/*----------FONTS--------*/ 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300;1,400;1,700&display=swap');
+
+
+/*------COMMONS------*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
